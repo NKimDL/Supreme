@@ -156,4 +156,6 @@ router.delete('/administrator/employees/:id', verifyToken, checkRoleForDeleteEmp
 
 // router.delete('products/upload', ProductController.seeProduct);
 
+// test
+
 module.exports = router;
